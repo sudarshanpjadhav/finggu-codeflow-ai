@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.finggu-code-editor {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.finggu-task-board {
+  margin-top: 20px;
+}
+.finggu-suggestions {
+  color: gray;
+}
